@@ -3,18 +3,16 @@ This version looks like something a real Data Engineer would include in a portfo
 
 ---
 
-# 📘 **README.md (Professional & Detailed Version)**
+# 📘 **README.md**
 
 ```markdown
 # 🛠️ ETL Pipeline for Multi-Format Data Integration
 
-This repository contains a fully functional **ETL (Extract, Transform, Load)** pipeline written in Python.  
+**ETL (Extract, Transform, Load)** pipeline written in Python.  
 It demonstrates the ability to work with multiple data formats (CSV, JSON, XML), perform transformations,  
 log pipeline activity, and generate a clean consolidated dataset.
 
-This project is designed to showcase hands-on data engineering skills suitable for real-world workflows  
-and portfolio demonstrations.
-
+This project is designed to showcase hands-on data engineering skills suitable for real-world workflows.
 ---
 
 ## 📑 Table of Contents

@@ -75,11 +75,6 @@ It's suitable for beginners, professionals, and anyone wanting a clean example o
 - Exports the final processed dataset to `transformed_data.csv`
 - Generates a log file (`log_file.txt`) documenting ETL actions
 
-### ✔️ **Error Handling**
-- Handles malformed JSON using safe loaders
-- Catches missing fields across input files
-- Uses try/except blocks (optional to add)
-
 ---
 
 ## 📂 Folder Structure
@@ -131,39 +126,6 @@ ETL_Project/
 
 ---
 
-## 🔧 Setup Instructions
-
-### **1. Install Dependencies**
-You only need Python + Pandas:
-
-```bash
-pip install pandas
-````
-
-### **2. Clone the Repository**
-
-```bash
-git clone https://github.com/AzizAhmed-spec/Data-Engineering-Portfolio
-cd ETL_Project
-```
-
----
-
-## ▶️ How to Run the ETL Pipeline
-
-From your terminal:
-
-```bash
-python3 etl_code.py
-```
-
-This will:
-
-* Read all input source files
-* Generate logs
-* Produce a final merged dataset
-
----
 
 ## 📥 Input Data Requirements
 
@@ -172,8 +134,8 @@ Every file must contain these fields:
 | Field    | Type      | Description   |
 | -------- | --------- | ------------- |
 | `name`   | string    | Person's name |
-| `height` | float/int | Height in cm  |
-| `weight` | float/int | Weight in kg  |
+| `height` | float | Height in cm  |
+| `weight` | float | Weight in kg  |
 
 ### Example JSON Lines Format (recommended):
 

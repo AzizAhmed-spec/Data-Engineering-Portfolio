@@ -1,0 +1,24 @@
+2025-Dec-08-01:32:09:ETL has started
+2025-Dec-08-01:32:09:extracting has started
+2025-Dec-08-01:33:36:ETL has started
+2025-Dec-08-01:33:36:extracting has started
+2025-Dec-08-01:33:37:extracting has finished
+2025-Dec-08-01:33:37:Transforming the data has started
+2025-Dec-08-01:35:41:ETL has started
+2025-Dec-08-01:35:41:extracting has started
+2025-Dec-08-01:35:42:extracting has finished
+2025-Dec-08-01:35:42:Transforming the data has started
+2025-Dec-08-01:36:28:ETL has started
+2025-Dec-08-01:36:28:extracting has started
+2025-Dec-08-01:36:29:extracting has finished
+2025-Dec-08-01:36:29:Transforming the data has started
+2025-Dec-08-01:36:56:ETL has started
+2025-Dec-08-01:36:56:extracting has started
+2025-Dec-08-01:36:57:extracting has finished
+2025-Dec-08-01:36:57:Transforming the data has started
+2025-Dec-08-01:36:57:transforming has finished
+2025-Dec-08-01:36:57:Loading the data to csv has started
+2025-Dec-08-01:36:57:Loading the data to csv has finished
+2025-Dec-08-01:36:57:SQL Connection initiated.
+2025-Dec-08-01:36:57:Data loaded to Database as table. Running the query.
+2025-Dec-08-01:36:57:Process Complete.

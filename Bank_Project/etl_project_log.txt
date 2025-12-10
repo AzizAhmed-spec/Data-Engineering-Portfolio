@@ -1,0 +1,10 @@
+2025-Dec-10-01:00:35,ETL has started
+2025-Dec-10-01:00:35,extracting has started
+2025-Dec-10-01:00:36,extracting has finished
+2025-Dec-10-01:00:36,Transforming the data has started
+2025-Dec-10-01:00:36,transforming has finished
+2025-Dec-10-01:00:36,Loading the data to csv has started
+2025-Dec-10-01:00:36,Loading the data to csv has finished
+2025-Dec-10-01:00:36,SQL Connection initiated.
+2025-Dec-10-01:00:36,Data loaded to Database as table. Running the query.
+2025-Dec-10-01:00:36,Process Complete.
